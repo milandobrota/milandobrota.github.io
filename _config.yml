@@ -1,12 +1,14 @@
 # Site settings
-title: Milan Dobrota
-email: # your-email@domain.com
+title: Milan's Blog
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   My thoughts about programming, psychology and leadership.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.milandobrota.com" # the base hostname & protocol for your site
 twitter_username: milandobrota
-github_username: # milandobrota
+# github_username: milandobrota
+
+permalink: /:title
 
 # Build settings
 markdown: kramdown
