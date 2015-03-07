@@ -4,7 +4,7 @@ title: The culture of blame
 date: '2015-03-07T09:00:00-05:00'
 tags: []
 ---
-I never understood why a sport coach would yell at a player when he makes a mistake.
+I never understood why a sports coach would yell at a player when he makes a mistake.
 
 It's not because the player can't hear the coach - no, he can hear him just fine. Instead, the coach gets loud and agressive intentionally, thinking that if he intimidates the player, he will be more cautious next time, and not make the same mistake again.
 
