@@ -16,4 +16,4 @@ In IT, I often notice problems related to this dimension of learning, and they a
 
 If a methodology is not working, don't be afraid to adapt it to your needs, or eliminate it completely. This is not a bad thing. Too many people see things as black or white, assuming that they need to follow a methodology by the book, or they wouldn't be "doing it right". In addition, many people assume that if a methodology is popular, it should be working for them. In reality, a lot of these methodologies are unfortunately nothing more than a collection of opinions, with no backing in science and without any systematic data that could demonstrate their alleged superiority.
 
-I think people generally do a good job figuring out what to do when they get blocked. But let's not stop there. Pay attention. Think. And don't be afraid to challenge the status quo.
+I think people generally do a good job figuring out what to do when they face obvious, immediate issues. But let's not stop there. Pay attention. Think. And don't be afraid to challenge the status quo.
