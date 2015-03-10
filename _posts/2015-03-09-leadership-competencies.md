@@ -25,7 +25,7 @@ These competencies are necessary. However, to be able to lead organizations and 
 
 - **Emotional intelligence** competencies, which enable you to understand and manage yourself better.
 - **Social intelligence** competencies, which enable you to understand and manage others better.
-- **Cognitive intelligence** competencies, which enable you to understand the world, such as systems thinking and pattern recognition.
+- **Cognitive intelligence** competencies, such as systems thinking and pattern recognition, which enable you to understand the world.
 
 In all honesty, when I first learned about this model, I thought to myself "I've got some work to do!"
 
