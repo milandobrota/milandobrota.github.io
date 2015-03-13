@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Most important leadership skills
+title: The most important leadership skills
 date: '2015-03-12T20:00:00-05:00'
 tags: []
 ---
