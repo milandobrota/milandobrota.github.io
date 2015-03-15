@@ -10,4 +10,4 @@ If you're like most people, you'll find them frustrating, discouraging, or maybe
 
 The thing is... the resistance isn't the enemy. It's part of the work itself. It makes the work challenging and pushes you to improve your skills and create better and more meaningful things. If there are no obstacles, setbacks or rejections in your work, you're probably playing it too safe. Embrace the resistance and keep going.
 
-Inspired by [The Icarus Deception](http://www.amazon.com/The-Icarus-Deception-High-Will-ebook/dp/B0090UOLEW) by Seth Godin.
+*Inspired by [The Icarus Deception](http://www.amazon.com/The-Icarus-Deception-High-Will-ebook/dp/B0090UOLEW) by Seth Godin.*
