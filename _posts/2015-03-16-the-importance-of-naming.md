@@ -20,6 +20,7 @@ This applies to pretty much anything you can think of, including the names of:
 - Scripts
 - Database tables and columns
 - Architectural components
+- Projects
 - Features
 - UI elements, such as links, buttons and form field labels
 
