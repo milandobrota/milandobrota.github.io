@@ -19,7 +19,7 @@ This applies to pretty much anything you can think of, including the names of:
 - Methods
 - Scripts
 - Database tables and columns
-- Architecture components
+- Architectural components
 - Features
 - UI elements, such as links, buttons and form field labels
 
