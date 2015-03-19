@@ -12,6 +12,6 @@ I don't remember the exact number of brackets in the pool, but it was probably a
 
 Not bad for a 9 year old girl.
 
-This year, her school has a pool and I helped her with her bracket. Do I think this bracket will be as successful? I doubt so.
+This year, her class has a pool and I helped her with her bracket. Do I think this bracket will be as successful? I doubt so.
 
 But that's OK. We stick together, no matter if we're winning or losing. :)
