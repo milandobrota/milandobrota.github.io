@@ -30,5 +30,5 @@ Organizational culture
 
 Organizational cultures are also complex adaptive systems. Humans are social creatures, and their interactions are complex. Individuals can change each other and the culture by influencing each other, sharing information, choosing to interact with others to gain access to new information etc. Organizational cultures are also adaptive, and can react to both internal and external changes.
 
-The emergent properties of complex adaptive systems make it difficult to detect the cause - effect relationships. As a leader, it may be tempting to try to reverse engineer the system and try to manipulate it, but it may be more effective to redirect the efforts into creating an environment where the right kinds of interactions and relationships between people can happen, because that's often the essential ingredient that causes the right solutions to emerge.
+The emergent properties of complex adaptive systems make it difficult to detect the cause-and-effect relationships. As a leader, it may be tempting to try to reverse engineer the system and try to manipulate it, but it may be more effective to redirect the efforts into creating an environment where the right kinds of interactions and relationships between people can happen, because that's often the essential ingredient that causes the right solutions to emerge.
 
