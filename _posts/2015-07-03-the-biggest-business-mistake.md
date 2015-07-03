@@ -6,7 +6,7 @@ tags: []
 ---
 The biggest business mistake is a very fundamental one: focusing too much on yourself.
 
-Stop talking about how great you and your company are and shift the focus to the consumers. What's the added value? How does your product or service make _their_ life easier?
+Stop talking about how great you and your company are and shift the focus to the consumers. How does your product or service make _their_ life easier? What's the added value?
 
 Less "I" and more "you" please.
 
