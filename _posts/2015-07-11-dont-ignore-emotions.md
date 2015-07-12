@@ -26,7 +26,7 @@ So how do emotions happen? Emotions don't happen in isolation - they happen in r
 
 This is where self-awareness comes into play. In the [previous blog post](/mood.html), we talked about how ignoring emotions doesn't protect you from their influence, so it's important to acknowledge them and analyze them consciously.
 
-How do you improve self-awareness? As we learned from the study, one important rule is not to jump to conclusions too quickly.
+How do you improve self-awareness? As we learned from the rickety bridge study, one important rule is not to jump to conclusions too quickly.
 
 You also need to be willing to be honest with yourself. Many people have been ignoring their emotions for such a long time that thinking about them doesn't feel comfortable. The pattern turned into a habit that now needs to be unlearned. Give yourself time. Be patient.
 
