@@ -60,4 +60,4 @@ On top of that, without emotions, we would probably be much more selfish and we 
 
 Lastly, the reason we're even alive is that when we were babies, there was someone who loved us and took care of us. This means that emotions are not only necessary for healthy brain functioning and optimal decision making, but also survival.
 
-Emotions matter.
+Emotions matter. Please don't ignore them.
