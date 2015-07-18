@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multitasking is a myth
+title: The truth about multitasking
 date: '2015-07-18T12:00:00-05:00'
 tags: []
 ---
