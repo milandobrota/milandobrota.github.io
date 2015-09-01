@@ -14,6 +14,6 @@ Learn how to do other people's jobs.
 
 Learn what people you work with do. Become interested in how they think and what they value.
 
-This will give you perspective. It will help you see the big picture, communicate better and make better decisions.
+This will give you perspective. It will help you see the big picture, communicate better and make better decisions. And it will make you and people around you more productive.
 
 P.S. If your goal is to get promoted, learning your boss's job is very effective as well.
