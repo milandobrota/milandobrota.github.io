@@ -8,7 +8,7 @@ When you're just starting your career, most of your professional development rev
 
 If you want to be a programmer, you need to learn how to program. And knowing more about programming makes you a lot more effective.
 
-However, once you become good at the technical skills, you may realize that acquiring more of them might not make you any more productive. The advice I'm about to give you may sound counterintuitive at first, but trust me, it's very impactful.
+However, once you become good at the technical skills, you may realize that acquiring more of them might not matter as much anymore. The advice I'm about to give you sounds counterintuitive at first, but trust me, it's very impactful:
 
 Learn how to do other people's jobs.
 
