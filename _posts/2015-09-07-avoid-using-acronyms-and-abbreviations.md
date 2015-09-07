@@ -14,7 +14,7 @@ In addition, a message is only written once, and could be read many times. There
 
 Furthermore, the acronyms can conflict with other acronyms. Take for example, one of my current projects I'm working on: Content Services, which is commonly referred to as CS.
 
-CS could mean many things. It could mean computer science, customer support, Creative Suite (by Adobe), case-sensitive or client server.
+CS could mean many things. It could mean computer science, customer support, Creative Suite (by Adobe), case-sensitive or client-server.
 
 If you're a gamer, the first thing that comes to mind may be Counter Strike. If you're into psychology, like me, you may also think of cognitive science.
 
