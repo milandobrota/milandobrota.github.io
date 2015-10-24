@@ -10,6 +10,6 @@ It's a miracle we survived. If my seat wasn't reclined, I'd definitely be decapi
 
 That experience changed me forever. It made me look at things differently. I became more resilient - everyday stressors instantly started being less intimidating. I realized how fragile we humans are, how everything can vanish in a moment. I started valuing human life more, not just my own, but also the lives of people around me, and appreciate every opportunity to spend time with them.
 
-I could think of the accident as a tragedy. After all, our chance for survival was probably not higher than a few percent (if that). We got extremely lucky. In hindsight, I feel like a lottery winner, winning the ultimate prize: the life of the person I love, my own life, the opportunity for my daughters to have parents, and the life of my son.
+I could think of the accident as a tragedy. After all, our chance for survival was probably not higher than a few percent (if that). We got extremely lucky. In hindsight, I feel like a lottery winner, winning the ultimate prize: the life of the person I love, my own life, the opportunity for my daughters to have Lana and me in their lives, and the life of my son.
 
 Instead of seeing the accident as a tragedy, I see it as a miracle. I can't help but feel so grateful every single day.
