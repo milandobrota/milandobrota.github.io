@@ -1,8 +1,8 @@
 # == Tasks =====================================================================
 
-# rake create_post["Title"]
+# rake new["Title"]
 desc 'Create a post in _posts'
-task :create_post, :title do |t, args|
+task :new, :title do |t, args|
   editor = ENV['EDITOR']
 
   title = args[:title]
