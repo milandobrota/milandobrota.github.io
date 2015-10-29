@@ -18,4 +18,4 @@ You can't have trust without predictability. Yet, many people, think that being 
 
 The main problem with this strategy is that people who think that way end up creating a political and bureaucratic mess, impair the relationships between the team members, and this chaos sooner or later gets reflected in the products they make and the services they offer. Until eventually, the entire system collapses.
 
-Being irreplaceable because of your work ethic, your diligence and by being well organized is hard, but it pays off in the long run.
+Being irreplaceable because of your work ethic, your diligence and organizational skills is hard, but it pays off in the long run.
