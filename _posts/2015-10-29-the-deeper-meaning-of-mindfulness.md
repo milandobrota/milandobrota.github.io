@@ -12,7 +12,7 @@ Suppose you were about to go shopping. But before you leave the house, you wante
 
 However, all the cups were dirty. So you start washing a cup.
 
-What many of us would do, while washing that cup, is think about other things. What are we going to do next, and for the rest of the day, how are we going to get to the mall, perhaps think about something that's troubling us.
+What many of us would do, while washing that cup, is think about other things. What are we going to do next, what are we going to do for the rest of the day, how are we going to get to the mall, perhaps think about something that's troubling us.
 
 We're on autopilot. We finish washing the cup and start making ourselves some tea, completely removed from the present moment.
 
