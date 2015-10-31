@@ -8,7 +8,7 @@ In our lives, mindlessness is often our mind's default setting.
 
 Recently I was watching a video of Mark Williams, retired Oxford professor and an expert in mindfulness, share a powerful story.
 
-Suppose you were about to go shopping. But before you go, you wanted to make yourself some tea.
+Suppose you were about to go shopping. But before you leave the house, you wanted to make yourself some tea.
 
 However, all the cups were dirty. So you start washing a cup.
 
