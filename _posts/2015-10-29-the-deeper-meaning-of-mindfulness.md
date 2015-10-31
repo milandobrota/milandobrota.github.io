@@ -18,4 +18,4 @@ We're on autopilot. We finish washing the cup and start making ourselves some te
 
 Even when we finally sit down and start drinking the tea, instead of being present and savoring the experience, at one point we just realize that the cup is empty.
 
-Now, fast forward to some time in the future, and imagine that you were diagnosed with a terminal disease and that you had only 6 more months to live. If you lived your entire life like that cup of tea, you'd wonder: Whose life was that? It must've been mine, since I lived it, but I wasn't there for it.
+Now, fast forward to some time in the future. Imagine that you were diagnosed with a terminal disease and that you had only 6 more months to live. If you lived your entire life like that cup of tea, you'd wonder: Whose life was that? It must've been mine, since I lived it, but I wasn't there for it.
