@@ -6,7 +6,7 @@ tags: []
 ---
 Making lasting changes in your life is easier when you focus on changing one thing at a time.
 
-If you're an optimist like me, setting goals and making changes is often very exciting - it's a exhilarating opportunity to make things better. This enthusiasm fuels my motivation and gives me energy. However, I noticed that if don't approach this decision with mindfulness, this insatiable drive will take over and make me bite more than I can chew.
+If you're an optimist like me, setting goals and making changes is often very exciting - it's a exhilarating opportunity to make things better. This enthusiasm fuels my motivation and gives me energy. However, I noticed that if don't approach this decision with mindfulness, this insatiable drive will take over and trick me into biting more than I can chew.
 
 Much like physical exercise requires gradual increase in weights, or the running distance, increasing self-control and responsibility works best when done in a controlled manner.
 
