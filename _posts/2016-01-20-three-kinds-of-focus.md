@@ -4,7 +4,7 @@ title: Three kinds of focus
 date: '2016-01-20T12:00:00-05:00'
 tags: []
 ---
-A few days ago, I watched a video of Daniel Goleman in which he talked about three different kinds of focus that leaders need to be effective:
+A few days ago, I watched a video with Daniel Goleman in which he talked about three different kinds of focus that leaders need to be effective:
 
 1. **Inner** focus. As the name suggests, this type of focus is directed inwardly. It requires you to be able to monitor your thoughts and feelings. Being able to distance yourself from your thoughts and feelings and observe them objectively gives you the power to overcome impulsive urges and make better decisions. This type of focus is best developed by mindfulness practice.
 
