@@ -14,7 +14,7 @@ One criticism may outweigh many compliments.
 
 This bias exists because paying attention to negative events helps us survive. Throughout evolution it was important to notice threats, because if we didn't, they could've gotten us killed.
 
-In modern life, there are less immediate dangers, but our initial instincts still skew towards keeping us safe.
+In modern life, there are fewer immediate dangers, but our initial instincts still skew towards keeping us safe.
 
 This bias also applies to social relationships. Humans are social creatures who depend on each other. We don't want to be criticized, because we interpret criticism as rejection (even if it's well-intentioned), or as a sign of not being good enough (which can lead to some kind of a loss, such as the loss of a job).
 
