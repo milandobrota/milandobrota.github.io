@@ -4,7 +4,7 @@ title: Identifying the meaning
 date: '2016-01-29T12:00:00-05:00'
 tags: []
 ---
-Money is probably the main reason why people show up to work. That's understandable - we needs money for food, bills and to support our families.
+Money is probably the main reason why people show up to work. That's understandable - we need money for food, bills and to support our families.
 
 However, money isn't the only thing that matters. For example, a job that is dangerous, physically hard or extremely stressful may not be worth the extra money.
 
