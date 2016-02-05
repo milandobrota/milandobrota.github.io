@@ -4,7 +4,7 @@ title: Putting out fires
 date: '2016-02-05T11:00:00-05:00'
 tags: []
 ---
-When you consistently take time to do things right, fires don't happen as often, and they aren't as big.
+When you consistently take time to do things right, fires don't happen as often, and they aren't as bad.
 
 The reason technical debt is called that is because you're borrowing time and money from your future self. And just like financial debt, technical debt is difficult to get rid of. The frequency and severity of the urgent issues keeps increasing, which leaves you less time to do things right.
 
