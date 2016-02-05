@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+![Milan Dobrota](/assets/milan.jpg)
 
 Hi! I am Milan Dobrota. I live in Ann Arbor, MI with my beautiful family.
 
