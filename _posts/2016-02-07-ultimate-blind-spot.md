@@ -12,4 +12,4 @@ Shortly afterwards I learned that green and black olives are also the same!
 
 This made me wonder - how many other things around me are like this? If something as simple and ordinary as bell peppers and olives had this interesting "secret" about them, what other secrets are out there?
 
-Perhaps the best way to learn these type of things is through exposing yourself to a variety of information sources, as well as exploring diverse topics. I often spend time learning about things that are completely unrelated to my occupation or the usual areas of interest. The website I highly recommend is Reddit's [Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive).
+Perhaps the best way to learn these type of things is through exposing yourself to a variety of information sources, as well as exploring diverse topics. I often spend time learning about things that are completely unrelated to my occupation or the usual areas of interest. The websites I highly recommend are Reddit's [Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive) and [Quora](https://www.quora.com/).
