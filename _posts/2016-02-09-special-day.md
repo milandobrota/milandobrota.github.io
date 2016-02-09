@@ -12,6 +12,6 @@ This process is a bittersweet concoction of feeling proud, and the sadness that 
 
 Parenting is filled with strange moments. You can look at a teenager and still see the little baby in them, or look at your baby and be so proud and amazed by how shockingly and unexpectedly smart he or she is.
 
-Being a father is hands down my biggest and most meaningful achievement in life. There's nothing more important to me than my family.
+Being a father is hands down my biggest and most meaningful achievement in life. There's nothing more important in this world to me than my family.
 
 P.S. I love you Sabrina! Happy Birthday! <3
