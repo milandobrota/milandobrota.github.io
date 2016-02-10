@@ -14,7 +14,7 @@ Of course, classical conditioning happens spontaneously as well (without anyone 
 
 Here are some examples:
 
-Aversion to the alarm ringtone. The romantic feeling that you get when you go to the place where you've met your romantic partner for the first time. The dislike of the sound of the drill at the dentist's office. The nostalgia triggered by the smell of the perfume your mom wore when you were a kid.
+Aversion to an alarm ringtone. The romantic feeling that you get when you go to the place where you've met your romantic partner for the first time. The dislike of the sound of the drill at the dentist's office. The nostalgia triggered by the smell of the perfume your mom wore when you were a kid.
 
 In some of the previous blog posts, we talked about a couple of examples of classical conditioning in the workplace: the unfortunate tendency to remain in the state of anxiety at work, [expecting urgent problems to arise](/putting-out-fires) after a series of incidents happen and intuitive inclination to automatically disregard your boss's praise if it's commonly [followed by criticism](/negativity-bias).
 
