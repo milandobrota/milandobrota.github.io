@@ -10,7 +10,9 @@ Expectancy theory is a theory about motivation. It tries to answer the question:
 
 The theory can be expressed using the following formula:
 
-    Motivation = Expectancy x Instrumentality x Valence
+~~~ nil
+Motivation = Expectancy x Instrumentality x Valence
+~~~
 
 _Expectancy_ refers to the belief that increased effort will lead to increased performance. If we believe that our effort will lead to progress, we are more likely to put in the work. If not, we may give up without even trying.
 
