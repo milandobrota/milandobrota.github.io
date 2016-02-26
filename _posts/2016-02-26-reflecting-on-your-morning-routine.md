@@ -10,4 +10,4 @@ Is it the frustration of not getting enough sleep? Thinking about what notificat
 
 Are those thoughts and emotions positive or negative? This matters a great deal, because they will set the tone for the rest of the day.
 
-What can you do to start off on the right foot each morning? What kind of morning routines, or other changes in your habbits, would make your morning self happier and more inspired?
+What can you do to start off on the right foot each morning? What kind of morning routine, or other change in your habits, would make your morning self happier and more inspired?
