@@ -8,7 +8,7 @@ You don't have to take yourself seriously to take your job seriously.
 
 In the past, work was more physical than it is today. The hardest worker was the one that exerted the most physical effort, and that effort would be reflected in his face. Focused, frowning, sometimes even painful grimace would be a sign that an individual was working hard.
 
-But today, the nature of work has changed. But even though many people are now knowledge workers who work in an office, there's still this lingering perception that productivity requires seriousness.
+The advancements in technology changed the nature of work. But even though many people are now knowledge workers who work in an office, there's still this lingering perception that productivity requires seriousness.
 
 Modern workplaces still require taking the job seriously, but it's a different kind of serious. The best workers are the ones that are being responsible, reliable and trustworthy.
 
