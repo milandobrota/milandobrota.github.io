@@ -24,7 +24,7 @@ For example, a man who meets a woman on a swaying, rickety bridge may misjudge h
 
 So how do emotions happen? Emotions don't happen in isolation - they happen in response to an external or internal stimulus. They are like reflexes, but more complex.
 
-This is where self-awareness comes into play. In the [previous blog post](/mood.html), we talked about how ignoring emotions doesn't protect you from their influence, so it's important to acknowledge them and analyze them consciously.
+This is where self-awareness comes into play. In the [previous blog post](/2015/07/07/mood.html), we talked about how ignoring emotions doesn't protect you from their influence, so it's important to acknowledge them and analyze them consciously.
 
 How do you improve self-awareness? As we learned from the rickety bridge study, one important rule is not to jump to conclusions too quickly.
 
@@ -34,7 +34,7 @@ For some people, looking deep inside themselves is scary. They are afraid that t
 
 Without the ability to understand yourself, it's very difficult, if not impossible, to effectively manage yourself, as well as understand others. Self-awareness is a prerequisite for both self-regulation and empathy.
 
-For many people, and especially for those in leadership positions, these [emotional and social competencies](/leadership-competencies.html) are precisely what leads to outstanding performance.
+For many people, and especially for those in leadership positions, these [emotional and social competencies](/2015/03/10/leadership-competencies.html) are precisely what leads to outstanding performance.
 
 What about decision making? Are we supposed to consider our emotions when we make decisions?
 

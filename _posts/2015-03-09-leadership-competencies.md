@@ -4,7 +4,7 @@ title: Leadership competencies
 date: '2015-03-09T23:00:00-05:00'
 tags: []
 ---
-In one of the [previous posts](/resonant_vs_dissonant_leaders.html), we talked about the importance of stress management in building resonant relationships.
+In one of the [previous posts](/2015/02/22/resonant-vs-dissonant-leaders.html), we talked about the importance of stress management in building resonant relationships.
 
 Although stress management is crucial, effective leadership requires the mastery of many other skills and behaviors.
 

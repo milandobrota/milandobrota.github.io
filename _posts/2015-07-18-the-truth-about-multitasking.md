@@ -31,5 +31,5 @@ So how can you apply this at your workplace? Here are a few tips:
 - Give your full attention to the task at hand. Resist the temptation to switch tasks.
 - Disable all notifications when trying to focus.
 - Try to get in the [flow state](https://en.wikipedia.org/wiki/Flow_%28psychology%29).
-- Use the right [communication medium](/email-vs-im-vs-phone-vs-in-person-communication.html) when communicating with others.
+- Use the right [communication medium](/2014/04/19/email-vs-im-vs-phone-vs-in-person-communication.html) when communicating with others.
 - Block off time to get work done (schedule it in advance and put it on your calendar) and/or use [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).

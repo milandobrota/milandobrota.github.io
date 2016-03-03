@@ -4,7 +4,7 @@ title: Resonant vs dissonant leaders
 date: '2015-02-22T16:00:00-05:00'
 tags: []
 ---
-In the [last blog post](/leadership-is-not-a-person.html) I introduced the concept of resonant leadership, which defines two types of leaders: the effective, *resonant* leaders and the toxic, *dissonant* leaders. Today we're going to discuss the difference between those two types and see what separates the leaders who are effective from those who are not.
+In the [last blog post](/2015/02/08/leadership-is-not-a-person.html) I introduced the concept of resonant leadership, which defines two types of leaders: the effective, *resonant* leaders and the toxic, *dissonant* leaders. Today we're going to discuss the difference between those two types and see what separates the leaders who are effective from those who are not.
 
 Most of us have experience working with both types of leaders, but probably have never tried to articulate, conceptualize and categorize their behavior and its effects, so our first goal today is to define what kind of impact these different types have on the people they work with.
 

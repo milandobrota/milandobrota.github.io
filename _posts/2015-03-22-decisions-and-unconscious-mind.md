@@ -6,7 +6,7 @@ tags: []
 ---
 A decision is not complete until the change is reflected in behavior.
 
-It took me literally one minute to decide to stop eating sweets, stop drinking alcohol and coffee, and [start meditating](/the-why-and-how-of-meditation.html). I made a decision, changed my behavior and that was it! After some time, the new behavior got internalized, and now I don't even think about it.
+It took me literally one minute to decide to stop eating sweets, stop drinking alcohol and coffee, and [start meditating](/2015/03/21/the-why-and-how-of-meditation.html). I made a decision, changed my behavior and that was it! After some time, the new behavior got internalized, and now I don't even think about it.
 
 However, not everything is that easy. For example, it's been difficult for me to go back to working out regularly again. The funny thing is... I love working out, but unconsciously I've been resisting it. I thought about it for some time and I realized that it was because of the fear that I'll get reinjured.
 

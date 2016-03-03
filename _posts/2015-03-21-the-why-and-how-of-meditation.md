@@ -4,7 +4,7 @@ title: The why and how of meditation
 date: '2015-03-21T12:00:00-05:00'
 tags: []
 ---
-A little over two months ago, I started meditating. I did it primarily to improve my ability to [stay calm under pressure](/leadership-competencies.html), but there are many other scientifically proven benefits. Meditation:
+A little over two months ago, I started meditating. I did it primarily to improve my ability to [stay calm under pressure](/2015/03/10/leadership-competencies.html), but there are many other scientifically proven benefits. Meditation:
 
 - Lowers stress levels
 - Reduces anxiety
