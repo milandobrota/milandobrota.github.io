@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding the balance
-date: '2016-03-03T23:00:00-05:00'
+date: '2016-03-03T17:00:00-05:00'
 tags: []
 ---
 Many people don't understand what positive psychology is truly about. Positive psychology is not seeing things better than they are. Instead, it is a reaction to traditional psychology where main focus was to cure mental illness.

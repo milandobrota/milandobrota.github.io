@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consistency and greatness
-date: '2016-03-03T13:00:00-05:00'
+date: '2016-03-03T23:00:00-05:00'
 tags: []
 ---
 One thing best basketball players have in common is that they rarely have an off night. They show up and perform consistently every single game.
