@@ -14,7 +14,7 @@ Here are some of the most common emotions, along with their meaning:
 |anger                |someone is taking advantage                                         |
 |annoyance            |there's an unpleasant distraction                                   |
 |anxiety              |anticipation of a threat                                            |
-|contempt             |anger directed a lower-status individual                            |
+|contempt             |anger directed at a lower-status individual                         |
 |disgust              |something is unpleasant or offensive                                |
 |envy                 |someone else possesses something you want                           |
 |fear                 |there's a perceived threat                                          |
