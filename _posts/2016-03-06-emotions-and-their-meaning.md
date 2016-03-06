@@ -4,9 +4,9 @@ title: Emotions and their meaning
 date: '2016-03-06T00:00:00-05:00'
 tags: []
 ---
-Every emotion carries a specific meaning. Knowing the meaning behind each emotion can prove very useful because when you become aware of an emotion, you can make sense of it more easily.
+Every emotion carries a message. Understanding these messages can be difficult. Knowing the meaning behind each emotion can help us make sense of them more easily.
 
-Here's a table that lists many emotions along with their meanings:
+Here are some of the most common emotions, along with their meaning:
 
 |---------------------+--------------------------------------------------------------------|
 |emotion              |meaning                                                             |
