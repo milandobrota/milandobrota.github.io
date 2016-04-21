@@ -20,6 +20,6 @@ More often than not, programming projects are developed by teams. In the team se
 
 I don't think these things get talked about enough. The goal of this post, and to some degree this entire blog is to change that by sharing my own thoughts and experiences, hoping that I will encourage you to do the same.
 
-When projects fail, people often say how one of the biggest problems was bad communication, but often the conversation ends there. I'm not sure why this happens - maybe because many people view these things as something outside of their expertise, or responsibility. And as a result, nothing changes and the same mistakes get repeated over and over.
+When projects fail, people often say that one of the biggest problems was bad communication, but often the conversation ends there. I'm not sure why this happens - maybe because many people view these things as something outside of their expertise, or responsibility. And as a result, nothing changes and the same mistakes get repeated over and over.
 
 The interpersonal aspects in general play a large role in software development. Of course, technical skills are very important as well, but high levels of effectiveness require more than being a good programmer - they require self-awareness, self-control and empathy, and developing these competencies requires a change in focus and perspective.
