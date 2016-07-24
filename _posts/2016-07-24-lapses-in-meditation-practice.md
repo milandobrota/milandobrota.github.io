@@ -6,7 +6,7 @@ tags: []
 ---
 It's been a little over one and a half year since I started meditating, and at times I still struggle to keep my practice regular.
 
-This is not because of lack of time. Even though I'm normally busier than most people I know, I can always find time. This is a pure willpower thing.
+This is not because of lack of time. Even though I'm normally busier than most people I know, I can always find time. I have to admit that this is a pure willpower thing.
 
 My mind is so addicted to being productive and/or entertained, that doing something that's inherently non-productive and that deprives my mind of intellectual stimulation is sometimes hard to justify.
 
