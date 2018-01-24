@@ -12,8 +12,8 @@ While I do believe that the degree to which an event will be perceived as good o
 
 Or perhaps, to give a more positive example, what if that person didn't die, because someone saved his/her life? I know I couldn't be indifferent about that!
 
-But recently I realized that I was completely missing the point.
+When it comes to mindfulness and the non-judgmental attitude, I recently realized that I was completely missing the point.
 
 It's not that the mindfulness insists that judgment is bad (which would be a contradiction anyway). Instead, what it teaches is this: The observation of our thoughts and emotions should happen independently of judgment. Why? Because judgment itself consists of thoughts and emotions.
 
-If my goal is to observe all thoughts and emotions that arise in my consciousness, I will need to observe judgment as well. Judgment should not affect the observation itself. Much like a good scientist conducts an experiment without a bias, observation of thoughts and feelings should be pure and independent - if our goal is to see things clearly.
+If my goal is to observe all thoughts and emotions that arise in my consciousness, I will need to observe judgment as well. Judgment should not affect the observation itself. Much like a good scientist conducts an experiment without a bias, the observation of thoughts and feelings should be neutral - if our goal is to see things clearly.
